@@ -1,1 +1,1 @@
-# fish_segmentation_detectron2
+# detectron2
