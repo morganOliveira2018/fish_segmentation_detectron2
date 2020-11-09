@@ -8,6 +8,7 @@ import glob
 import PIL.Image
 
 
+#Conversão de labelme para COCO
 class labelme2coco(object):
     def __init__(self, labelme_json=[], save_json_path="./coco.json"):
         """
