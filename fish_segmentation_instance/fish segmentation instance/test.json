@@ -4,85 +4,80 @@
             "height": 2048,
             "width": 1536,
             "id": 0,
-            "file_name": "dataset_fishes\\train\\ariaco\\ariacot1.jpeg"
+            "file_name": "ariaco1.jpeg"
         },
         {
             "height": 2048,
             "width": 1536,
             "id": 1,
-            "file_name": "ariaco\\ariacot10.JPEG"
+            "file_name": "ariaco10.JPEG"
         },
         {
             "height": 1508,
             "width": 1176,
             "id": 2,
-            "file_name": "..\\Users\\ribei\\Downloads\\dataset_fishes\\dataset_fishes\\train\\ariaco\\ariacot11.JPEG"
+            "file_name": "ariaco11.JPEG"
         },
         {
             "height": 2048,
             "width": 1029,
             "id": 3,
-            "file_name": "..\\Users\\ribei\\Downloads\\dataset_fishes\\dataset_fishes\\train\\ariaco\\ariacot12.JPEG"
+            "file_name": "ariaco12.JPEG"
         },
         {
             "height": 2048,
             "width": 1536,
             "id": 4,
-            "file_name": "..\\Users\\ribei\\Downloads\\dataset_fishes\\dataset_fishes\\train\\ariaco\\ariacot13.JPEG"
+            "file_name": "ariaco13.JPEG"
         },
         {
             "height": 1536,
             "width": 2048,
             "id": 5,
-            "file_name": "..\\Users\\ribei\\Downloads\\dataset_fishes\\dataset_fishes\\train\\ariaco\\ariacot14.JPEG"
+            "file_name": "ariaco14.JPEG"
         },
         {
             "height": 2048,
             "width": 1536,
             "id": 6,
-            "file_name": "..\\Users\\ribei\\Downloads\\dataset_fishes\\dataset_fishes\\train\\ariaco\\ariacot15.JPEG"
+            "file_name": "ariaco15.JPEG"
         },
         {
             "height": 4032,
             "width": 3024,
             "id": 7,
-            "file_name": "..\\Users\\ribei\\Downloads\\dataset_fishes\\dataset_fishes\\train\\ariaco\\ariacot16.JPEG"
+            "file_name": "ariaco16.JPEG"
         },
         {
             "height": 2048,
             "width": 1536,
             "id": 8,
-            "file_name": "..\\Users\\ribei\\Downloads\\dataset_fishes\\dataset_fishes\\train\\ariaco\\ariacot17.JPEG"
+            "file_name": "ariacot17.JPEG"
         },
         {
             "height": 2048,
             "width": 1536,
             "id": 9,
-            "file_name": "dataset_fishes\\train\\ariaco\\ariacot18.JPEG"
+            "file_name": "ariacot18.JPEG"
         },
         {
             "height": 1536,
             "width": 2048,
             "id": 10,
-            "file_name": "dataset_fishes\\train\\ariaco\\ariacot2.jpeg"
+            "file_name": "ariacot2.jpeg"
         },
         {
             "height": 4032,
             "width": 3024,
             "id": 11,
-            "file_name": "dataset_fishes\\train\\ariaco\\ariacot3.jpeg"
+            "file_name": "ariaco3.jpeg"
         }
     ],
     "categories": [
         {
-            "supercategory": "body",
+            "supercategory": "fish_ariaco",
             "id": 0,
-            "name": "body"
-        },
-        {
-            "supercategory": "fish",
-            "id": 1,
-            "name": "fish"
+            "name": "fish_ariaco"
         }
     ],
     "annotations": [
